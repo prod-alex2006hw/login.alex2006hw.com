@@ -1,2 +1,2 @@
 npm i
-nodemon server &
+nodemon server 2>&1 > ./log/login.alex2006hw.com.log &
