@@ -1,2 +1,2 @@
 npm i
-nodemon server
+nodemon server &
